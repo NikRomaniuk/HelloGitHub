@@ -18,3 +18,18 @@ public class Menu{
  System.out.println("If..else lab");
  break;
  case 2:
+System.out.println("While lab");
+ break;
+ case 3:
+ System.out.println("For lab");
+ break;
+ case 4:
+ System.out.println("Switch lab");
+ break;
+ default:
+ System.out.println("Invalid choice");
+ break;
+ }
+ System.out.println();
+ }
+}
